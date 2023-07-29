@@ -79,5 +79,4 @@
 ---
 
 <br>
-Credit: [Lam Tu Lan](https://github.com/0xabdulkhalid)
-Last Edited on: 29/07/2023
+
